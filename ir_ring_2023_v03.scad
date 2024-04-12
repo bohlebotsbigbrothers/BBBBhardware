@@ -39,10 +39,10 @@ module ring()
         difference()
         {
             translate([0,0,-1])cylinder(d=58,h=15,$fn=180);
-            translate([ 20, 20,-1]) cylinder(d=12,h=15,$fn=90);      
-            translate([ 20,-20,-1]) cylinder(d=12,h=15,$fn=90);
-            translate([-20, 20,-1]) cylinder(d=12,h=15,$fn=90);
-            translate([-20,-20,-1]) cylinder(d=12,h=15,$fn=90);
+            translate([ 19, 19,-1]) cylinder(d=12,h=15,$fn=90);      
+            translate([ 19,-19,-1]) cylinder(d=12,h=15,$fn=90);
+            translate([-19, 19,-1]) cylinder(d=12,h=15,$fn=90);
+            translate([-19,-19,-1]) cylinder(d=12,h=15,$fn=90);
             
             //translate([ 22, 22,-1]) cylinder(d=14,h=15,$fn=90); 
             //translate([ 22,-22,-1]) cylinder(d=14,h=15,$fn=90); 
@@ -52,15 +52,15 @@ module ring()
         }
         kranz();
         
-        translate([ 20, 20,-1]) cylinder(d=4.5,h=15,$fn=90);
-        translate([ 20,-20,-1]) cylinder(d=4.5,h=15,$fn=90);
-        translate([-20, 20,-1]) cylinder(d=4.5,h=15,$fn=90);
-        translate([-20,-20,-1]) cylinder(d=4.5,h=15,$fn=90);
+        translate([ 18, 18,-1]) cylinder(d=4.5,h=15,$fn=90);
+        translate([ 18,-18,-1]) cylinder(d=4.5,h=15,$fn=90);
+        translate([-18, 18,-1]) cylinder(d=4.5,h=15,$fn=90);
+        translate([-18,-18,-1]) cylinder(d=4.5,h=15,$fn=90);
         
         //translate([ 20, 20,1.5]) cylinder(d=9.5,h=15,$fn=90);
         //translate([ 20,-20,1.5]) cylinder(d=9.5,h=15,$fn=90);
         //translate([-20, 20,1.5]) cylinder(d=9.5,h=15,$fn=90);
-        //translate([-20,-20,1.5]) cylinder(d=9.5,h=15,$fn=90);
+        //translate([-20,-20,1.5]) cylinder(d=9.5,h=15,$fn=90)
     }
 }
 
