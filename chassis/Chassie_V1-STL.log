@@ -1,0 +1,25 @@
+STL translation to Solid Edge
+Datum: Donnerstag,September 14,2023 05:29
+Quelldatei:C:\Users\bohle\Downloads\Chassie_V1.stl
+Autor: Unbekannt
+Organisation: Unbekannt
+Ausgangssystem: DEX
+
+Hardware:
+Prozessor: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz
+Betriebssystem: Windows 10 Professional
+Installierter Speicher: 4,76 GB
+
+Software-Informationen:
+Parasolid-Version: 35.0.149
+PSBodyshop-Version: 35.0.82
+Solid Edge-Version: 223.00.00.101 x64
+
+STL Import Options
+Vernetzungsfehler reparieren:Aus
+Basisformelement erstellen:Ein
+Protokollierung aktivieren:Ein
+
+Konvertierungsfortschritt:
+Konvertierungsvorgang ist abgeschlossen
+Zum Konvertieren benötigte Zeit:00 : 00 : 01
